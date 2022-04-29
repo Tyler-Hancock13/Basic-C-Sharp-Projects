@@ -1,0 +1,6 @@
+C:\Users\tyler\Desktop\Basic-C-Sharp-Projects\AcmeAccounting\AcmeAccounting\bin\Debug\AcmeAccounting.exe.config
+C:\Users\tyler\Desktop\Basic-C-Sharp-Projects\AcmeAccounting\AcmeAccounting\bin\Debug\AcmeAccounting.exe
+C:\Users\tyler\Desktop\Basic-C-Sharp-Projects\AcmeAccounting\AcmeAccounting\bin\Debug\AcmeAccounting.pdb
+C:\Users\tyler\Desktop\Basic-C-Sharp-Projects\AcmeAccounting\AcmeAccounting\obj\Debug\AcmeAccounting.csproj.CoreCompileInputs.cache
+C:\Users\tyler\Desktop\Basic-C-Sharp-Projects\AcmeAccounting\AcmeAccounting\obj\Debug\AcmeAccounting.exe
+C:\Users\tyler\Desktop\Basic-C-Sharp-Projects\AcmeAccounting\AcmeAccounting\obj\Debug\AcmeAccounting.pdb
