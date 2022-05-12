@@ -1,0 +1,7 @@
+C:\Users\tyler\Desktop\Basic-C-Sharp-Projects\PriceQuoteApplication\PriceQuoteApplication\bin\Debug\PriceQuoteApplication.exe.config
+C:\Users\tyler\Desktop\Basic-C-Sharp-Projects\PriceQuoteApplication\PriceQuoteApplication\bin\Debug\PriceQuoteApplication.exe
+C:\Users\tyler\Desktop\Basic-C-Sharp-Projects\PriceQuoteApplication\PriceQuoteApplication\bin\Debug\PriceQuoteApplication.pdb
+C:\Users\tyler\Desktop\Basic-C-Sharp-Projects\PriceQuoteApplication\PriceQuoteApplication\obj\Debug\PriceQuoteApplication.csproj.AssemblyReference.cache
+C:\Users\tyler\Desktop\Basic-C-Sharp-Projects\PriceQuoteApplication\PriceQuoteApplication\obj\Debug\PriceQuoteApplication.csproj.CoreCompileInputs.cache
+C:\Users\tyler\Desktop\Basic-C-Sharp-Projects\PriceQuoteApplication\PriceQuoteApplication\obj\Debug\PriceQuoteApplication.exe
+C:\Users\tyler\Desktop\Basic-C-Sharp-Projects\PriceQuoteApplication\PriceQuoteApplication\obj\Debug\PriceQuoteApplication.pdb
